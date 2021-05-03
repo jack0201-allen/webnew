@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_login" value="name:name;datatype:string,name:user_img;datatype:string,name:user_name;datatype:string,name:passwd;datatype:string,name:email;datatype:string,name:ID_card;datatype:string,name:HBD;datatype:string,name:sex;datatype:string,name:address;datatype:string,name:phone;datatype:string,name:level;datatype:string,name:user_text;datatype:string,name:store_name;datatype:string,name:store_img;datatype:string,name:store_text;datatype:string,name:user_add_date;datatype:string" />
+	<infoitem key="UD_count" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_class" value="name:class_store;datatype:string,name:class_name;datatype:string" />
+	<infoitem key="UD_commodity" value="name:product_name;datatype:string,name:product_img;datatype:string,name:product_store;datatype:string,name:product_text;datatype:string,name:product_price;datatype:int,name:product_class;datatype:string,name:product_time;datatype:string,name:product_quantity;datatype:int,name:product_class_contenr;datatype:string" />
+	<infoitem key="UD_activity" value="name:activity_name;datatype:string,name:activity_timestart;datatype:string,name:activity_timeend;datatype:string,name:activity_uptime;datatype:string,name:activity_store;datatype:string,name:activity_img;datatype:string,name:activity_text;datatype:string,name:activity_href;datatype:string" />
+</info>

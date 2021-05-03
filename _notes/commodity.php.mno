@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_index_bid1" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_big1_count" value="name:COUNT(*);datatype:int" />
+	<infoitem key="UD_big2_smail1" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_big2_smail2" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_big2_smail3" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_big2_smail4" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_big2_smail5" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_big2_smail6" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_big2_smail7" value="name:admin_id;datatype:int,name:location;datatype:string,name:big_column;datatype:string,name:small_column;datatype:string,name:contenr_img;datatype:string,name:contenr_text;datatype:string,name:href;datatype:string" />
+	<infoitem key="UD_commodity" value="name:commodity_name;datatype:string,name:commodity_price;datatype:int,name:commodity_img;datatype:blob,name:commodity_text;datatype:string,name:commodity_date;datatype:datetime,name:commodity_key;datatype:string" />
+	<infoitem key="UD_commodity_data" value="name:commodity_name;datatype:string,name:commodity_price;datatype:int,name:commodity_img;datatype:blob,name:commodity_text;datatype:string,name:commodity_date;datatype:datetime,name:commodity_key;datatype:string" />
+</info>
